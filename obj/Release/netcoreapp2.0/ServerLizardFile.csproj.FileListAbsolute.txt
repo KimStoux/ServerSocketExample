@@ -1,0 +1,11 @@
+C:\Users\Raphaël\source\repos\LizardFile\serveurLizardLinux\bin\Release\netcoreapp2.0\ServerLizardFile.deps.json
+C:\Users\Raphaël\source\repos\LizardFile\serveurLizardLinux\bin\Release\netcoreapp2.0\ServerLizardFile.runtimeconfig.json
+C:\Users\Raphaël\source\repos\LizardFile\serveurLizardLinux\bin\Release\netcoreapp2.0\ServerLizardFile.runtimeconfig.dev.json
+C:\Users\Raphaël\source\repos\LizardFile\serveurLizardLinux\bin\Release\netcoreapp2.0\ServerLizardFile.dll
+C:\Users\Raphaël\source\repos\LizardFile\serveurLizardLinux\bin\Release\netcoreapp2.0\ServerLizardFile.pdb
+C:\Users\Raphaël\source\repos\LizardFile\serveurLizardLinux\obj\Release\netcoreapp2.0\ServerLizardFile.csprojResolveAssemblyReference.cache
+C:\Users\Raphaël\source\repos\LizardFile\serveurLizardLinux\obj\Release\netcoreapp2.0\ServerLizardFile.csproj.CoreCompileInputs.cache
+C:\Users\Raphaël\source\repos\LizardFile\serveurLizardLinux\obj\Release\netcoreapp2.0\ServerLizardFile.AssemblyInfoInputs.cache
+C:\Users\Raphaël\source\repos\LizardFile\serveurLizardLinux\obj\Release\netcoreapp2.0\ServerLizardFile.AssemblyInfo.cs
+C:\Users\Raphaël\source\repos\LizardFile\serveurLizardLinux\obj\Release\netcoreapp2.0\ServerLizardFile.dll
+C:\Users\Raphaël\source\repos\LizardFile\serveurLizardLinux\obj\Release\netcoreapp2.0\ServerLizardFile.pdb
