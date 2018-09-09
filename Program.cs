@@ -17,12 +17,12 @@ namespace serveurLizardLinux
             var publicKey = rsa.getPublicKey();
             socket.startSocket(publicKey, pk, privatekey);
             Console.Read();
-            Thread startingServ = new Thread() => Program.dopeul(5);
+           // Thread startingServ = new Thread() => Program.dopeul(5);
             startingServ.Start();
         }
-        public static void dopeul(int s)
-        {
+        
+        
 
-        }
+        
     }
 }
